@@ -1,0 +1,6 @@
+C:\Users\felip\Dropbox\EPN\Séptimo Semestre\Aplicaciones Distribuidas\Proyecto Bimestral 1\codigo01_MayteB_FelipeZ\ProeyctoBimestral\bin\Debug\ProeyctoBimestral.dll
+C:\Users\felip\Dropbox\EPN\Séptimo Semestre\Aplicaciones Distribuidas\Proyecto Bimestral 1\codigo01_MayteB_FelipeZ\ProeyctoBimestral\bin\Debug\ProeyctoBimestral.pdb
+C:\Users\felip\Dropbox\EPN\Séptimo Semestre\Aplicaciones Distribuidas\Proyecto Bimestral 1\codigo01_MayteB_FelipeZ\ProeyctoBimestral\obj\Debug\ProyectoBimestral.csprojAssemblyReference.cache
+C:\Users\felip\Dropbox\EPN\Séptimo Semestre\Aplicaciones Distribuidas\Proyecto Bimestral 1\codigo01_MayteB_FelipeZ\ProeyctoBimestral\obj\Debug\ProyectoBimestral.csproj.CoreCompileInputs.cache
+C:\Users\felip\Dropbox\EPN\Séptimo Semestre\Aplicaciones Distribuidas\Proyecto Bimestral 1\codigo01_MayteB_FelipeZ\ProeyctoBimestral\obj\Debug\ProeyctoBimestral.dll
+C:\Users\felip\Dropbox\EPN\Séptimo Semestre\Aplicaciones Distribuidas\Proyecto Bimestral 1\codigo01_MayteB_FelipeZ\ProeyctoBimestral\obj\Debug\ProeyctoBimestral.pdb
